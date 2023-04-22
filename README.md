@@ -18,4 +18,4 @@
 
 ## Contribution-
 
-This website is created by @priti200 and I . We collaborated to complete this project. We are still in work to make the project more efficient and easy to use.
+This website is created by I and @govindkrishna03 . We collaborated to complete this project. We are still in work to make the project more efficient and easy to use. We are still in process to make the website more functional and the User interface as well.
